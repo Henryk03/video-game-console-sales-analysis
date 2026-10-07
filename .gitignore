@@ -1,0 +1,10 @@
+# macOS metadata
+.DS_Store
+
+# R session state
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project state
+.Rproj.user/
